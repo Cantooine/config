@@ -1,0 +1,6 @@
+iTerm2
+oh-my-zsh with powerlevel10k
+kubectl
+kubecolor
+awsx
+kubectx
